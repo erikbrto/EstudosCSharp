@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<agenda>
+  <titulo>Agenda de Contatos</titulo>
+  <contatos>
+    <contato id="1" nome="João da Silva" idade="23" />
+    <contato id="2" nome="Maria da Silva" idade="30" />
+    <contato id="3" nome="José da Silva" idade="42" />
+    <contato id="4" nome="Joaquim de Souza" idade="38" />
+    <contato id="5" nome="Ana de Souza" idade="27" />
+  </contatos>
+</agenda>
